@@ -1,7 +1,4 @@
 <template>
-    <Dialog></Dialog>
-    <Button>ewrewf</Button>
-    <Button label="Submit" />
     <article>
         <h4>Get data from firestore</h4>
 
